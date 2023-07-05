@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.external{
+    width: 700px; 
+    margin: auto; 
+    padding: 15px; 
+    color: rgb(255, 255, 255); 
+    background: linear-gradient(90deg, rgba(47, 103, 155, 0.747), rgba(99, 97, 73, 0.801)); 
+    font-family:'Courier New', Courier, monospace; 
+    border-left: 5px dotted white; 
+    border-radius: 10px; 
+    margin-bottom: 10px;
+}
